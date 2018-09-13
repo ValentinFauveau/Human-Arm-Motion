@@ -12,12 +12,12 @@ clear all;
 %Mean Height is 177.5 cm
 
 %% Inputs
-%Initial position
+%Initial position (angle between limbs)
 qs=-pi/6;
 qe=pi/4;
 qw=pi/8;
 
-%Final position
+%Final position (fingertips)
 xf=-20; %In cm
 yf=40; %In cm
 
