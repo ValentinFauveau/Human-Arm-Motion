@@ -6,7 +6,7 @@ This model considers 3 joints (shoulder, elbow and wrist) and 8 muscles. The cor
 
 ### Prerequisites
 
-Matlab
+Matlab version 7 or 
 
 ## Author
 ** Valentin Fauveau **
