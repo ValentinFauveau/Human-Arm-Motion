@@ -6,6 +6,8 @@ This model considers 3 joints (shoulder, elbow and wrist) and 8 muscles. The cor
 
 The next scheme shows the 8 muscles considered in the model.
 
+![scheme of the system](https://user-images.githubusercontent.com/35737567/46036646-0720f400-c0d4-11e8-8ad5-bb37d76bff71.png)
+
 ## Result
 [Simulation of human arm motion](https://www.youtube.com/watch?v=TnxvDDRBxwA)
 
